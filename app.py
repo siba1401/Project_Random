@@ -33,7 +33,7 @@ def generate_parts_dataframe(file, num_rows, max_limits):
 
 
 def main():
-    st.title("Grades Splitter App 🎯")
+    st.title("Splitter App 🎯")
 
     uploaded_file = st.file_uploader("Upload your grades1.csv file", type="csv")
 
